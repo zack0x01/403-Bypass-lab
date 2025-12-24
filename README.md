@@ -2,6 +2,8 @@
 
 A comprehensive bug bounty practice lab demonstrating various 403 Forbidden bypass techniques. Perfect for learning and creating educational content!
 
+<img width="1740" height="956" alt="Screenshot_2025-12-23_20-15-34" src="https://github.com/user-attachments/assets/495e13e3-55f5-4762-bb3f-ec431fd4611d" />
+
 Created by **zack0x01** | [Learn Bug Bounty](https://lureo.shop) | [YouTube](https://youtube.com/@zack0x01) | [Twitter](https://twitter.com/zack0x01)
 
 ## 🚀 Quick Installation
